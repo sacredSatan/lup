@@ -6,5 +6,6 @@ It is made with ReactJS, it is a simple clone, nothing fancy. However, I do plan
 ### TODO List
 
 - Add More Levels
+- Better images for tiles
 - Generate Levels Automatically
 - Level Creator
